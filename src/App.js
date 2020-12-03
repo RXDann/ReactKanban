@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <Navbar />
-      <div>
+      <div className= "container">
         <TaskList title="A fazer" />
         <TaskList title="Em andamento" />
         <TaskList title="Concluído" />
