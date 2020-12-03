@@ -8,9 +8,9 @@ export default function App() {
     <div className="App">
       <Navbar />
       <div>
-        <TaskList title = "A fazer" />
-        <TaskList title = "Em andamento" />
-        <TaskList title = "Concluído" />
+        <TaskList title="A fazer" />
+        <TaskList title="Em andamento" />
+        <TaskList title="Concluído" />
       </div>
     </div>
   );
